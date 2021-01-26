@@ -1,0 +1,36 @@
+Uri: https://hastebin.com/
+File Name: C:\Downloaded Web Sites\hastebin.com\index.htm
+Content Type: text/html
+
+Uri: https://hastebin.com/solarized_dark.css
+File Name: C:\Downloaded Web Sites\hastebin.com\solarized_dark.css
+Content Type: text/css
+
+Uri: https://hastebin.com/application.css
+File Name: C:\Downloaded Web Sites\hastebin.com\application.css
+Content Type: text/css
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\hastebin.com\ajax\libs\jquery\1.7.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://hastebin.com/highlight.min.js
+File Name: C:\Downloaded Web Sites\hastebin.com\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://hastebin.com/application.min.js
+File Name: C:\Downloaded Web Sites\hastebin.com\application.min.js
+Content Type: application/javascript
+
+Uri: https://hastebin.com/logo.png
+File Name: C:\Downloaded Web Sites\hastebin.com\logo.png
+Content Type: image/png
+
+Uri: https://hastebin.com/function-icons.png
+File Name: C:\Downloaded Web Sites\hastebin.com\function-icons.png
+Content Type: image/png
+
+Uri: https://hastebin.com/hover-dropdown-tip.png
+File Name: C:\Downloaded Web Sites\hastebin.com\hover-dropdown-tip.png
+Content Type: image/png
+
